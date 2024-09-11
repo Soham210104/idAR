@@ -24,5 +24,5 @@ GameDevelopment, C#, Unity Engine,Augmented Reality,Vuforia SDK.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-406187142_unity-ar-vuforia-activity-7045035085149978624-P03o?utm_source=share&utm_medium=member_desktop)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/posts/soham-ovhal-406187142_unity-ar-vuforia-activity-7045035085149978624-P03o?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/soham-ovhal-pccoe_unity-ar-vuforia-activity-7045035085149978624-NeHN?utm_source=share&utm_medium=member_desktop))
 
